@@ -13,3 +13,12 @@ do
 	~/Private/bin/muscle -in $gene -out $gene_aligned.fasta
 	~/Private/bin/hmmer/bin/hmmbuild $gene.hmm $gene_aligned.fasta
 done
+
+#STEP 3: use the hmm to find methane producing proteomes
+
+for proteome in proteome_*.fasta
+do 
+        ~/Private/bin/hmmer/bin/hmmsearch mcrA.ref.hmm $proteome >> mcrAsearchOut.txt
+done
+
+#STEP 4: 
