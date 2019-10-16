@@ -10,15 +10,15 @@ cat ref_sequences/hsp70* >> hsp70.ref
 
 for gene in *.ref
 do
-	~/Private/bin/muscle -in $gene -out $gene_aligned.fasta
-	~/Private/bin/hmmer/bin/hmmbuild $gene.hmm $gene_aligned.fasta
+	executables/muscle -in $gene -out $gene_aligned.fasta
+	executables/hmmbuild $gene.hmm $gene_aligned.fasta
 done
 
 #STEP 3: use the hmm to find methane producing proteomes
 
 for proteome in proteome_*.fasta
 do 
-        ~/Private/bin/hmmer/bin/hmmsearch mcrA.ref.hmm $proteome >> mcrAsearchOut.txt
+        executables/hmmsearch mcrA.ref.hmm $proteome >> mcrAsearchOut.txt
 done
 
 #STEP 4: 
