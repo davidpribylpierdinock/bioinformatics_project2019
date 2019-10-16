@@ -22,3 +22,8 @@ do
 done
 
 #STEP 4: 
+
+for proteome in proteome_*.fasta
+do
+        executables/hmmsearch hsp70.ref.hmm $proteome >> hsp70searchOut.txt
+done
