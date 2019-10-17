@@ -3,7 +3,7 @@
 
 #STEP 1: clear working directory of conflicting files and compile all reference sequences into one fasta file
 
-rm hsp70* mcrA*
+rm hsp70* mcrA* final* output*
 cat ref_sequences/mcrA* >> mcrA.ref
 cat ref_sequences/hsp70* >> hsp70.ref
 
@@ -31,7 +31,7 @@ do
 	executables/hmmsearch hsp70.ref.hmm $proteome >> hsp70_searchOut.txt
 done
 
-grep "Domain search space" hsp70_searchOut.txt | grep -n "Domain search space" > hsp70_counts.txt
+grep "Domain search space" hsp70_searchOut.txt | egrep -n [1-9][0-9]* > hsp70_counts.txt
 
 for i in $(cat mcrA_positive.txt)
 do 

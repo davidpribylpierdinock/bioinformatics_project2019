@@ -1,0 +1,16 @@
+Methanogen proteome number: number of pH resistance genes
+3: 3 
+5: 2 
+7: 2 
+15: 1 
+16: 1 
+19: 1 
+23: 2 
+24: 2 
+38: 1 
+39: 1 
+42: 3 
+44: 1 
+45: 3 
+48: 1 
+50: 3 
