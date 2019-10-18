@@ -163,8 +163,8 @@ Passed Vit filter:                        13  (0.00522928); expected 2.5 (0.001)
 Passed Fwd filter:                         4  (0.00160901); expected 0.0 (1e-05)
 Initial search space (Z):               2486  [actual number of targets]
 Domain search space  (domZ):               4  [number of targets reported over threshold]
-# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
-# Mc/sec: 8292.81
+# CPU time: 0.12u 0.02s 00:00:00.13 Elapsed: 00:00:00.08
+# Mc/sec: 6153.94
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -223,8 +223,8 @@ Passed Vit filter:                         4  (0.00214823); expected 1.9 (0.001)
 Passed Fwd filter:                         3  (0.00161117); expected 0.0 (1e-05)
 Initial search space (Z):               1862  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.03
-# Mc/sec: 9381.90
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.04
+# Mc/sec: 6865.82
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -379,8 +379,8 @@ Passed Vit filter:                        10  (0.00291036); expected 3.4 (0.001)
 Passed Fwd filter:                         3  (0.000873108); expected 0.0 (1e-05)
 Initial search space (Z):               3436  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.10u 0.01s 00:00:00.11 Elapsed: 00:00:00.05
-# Mc/sec: 10648.32
+# CPU time: 0.12u 0.01s 00:00:00.13 Elapsed: 00:00:00.07
+# Mc/sec: 8716.77
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -578,8 +578,8 @@ Passed Vit filter:                         6  (0.0021606); expected 2.8 (0.001)
 Passed Fwd filter:                         4  (0.0014404); expected 0.0 (1e-05)
 Initial search space (Z):               2777  [actual number of targets]
 Domain search space  (domZ):               4  [number of targets reported over threshold]
-# CPU time: 0.14u 0.01s 00:00:00.15 Elapsed: 00:00:00.07
-# Mc/sec: 7118.97
+# CPU time: 0.12u 0.02s 00:00:00.13 Elapsed: 00:00:00.09
+# Mc/sec: 6274.96
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -692,8 +692,8 @@ Passed Vit filter:                         3  (0.000918836); expected 3.3 (0.001
 Passed Fwd filter:                         2  (0.000612557); expected 0.0 (1e-05)
 Initial search space (Z):               3265  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
-# Mc/sec: 10584.65
+# CPU time: 0.12u 0.02s 00:00:00.13 Elapsed: 00:00:00.09
+# Mc/sec: 6795.34
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -729,8 +729,8 @@ Passed Vit filter:                         3  (0.00149701); expected 2.0 (0.001)
 Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2004  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.02
-# Mc/sec: 15288.98
+# CPU time: 0.03u 0.10s 00:00:00.13 Elapsed: 00:00:00.89
+# Mc/sec: 416.77
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -848,8 +848,8 @@ Passed Vit filter:                        10  (0.00397931); expected 2.5 (0.001)
 Passed Fwd filter:                         2  (0.000795862); expected 0.0 (1e-05)
 Initial search space (Z):               2513  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.08u 0.00s 00:00:00.08 Elapsed: 00:00:00.06
-# Mc/sec: 7471.89
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.06
+# Mc/sec: 6817.57
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1073,8 +1073,8 @@ Passed Vit filter:                         9  (0.00286533); expected 3.1 (0.001)
 Passed Fwd filter:                         6  (0.00191022); expected 0.0 (1e-05)
 Initial search space (Z):               3141  [actual number of targets]
 Domain search space  (domZ):               5  [number of targets reported over threshold]
-# CPU time: 0.14u 0.02s 00:00:00.16 Elapsed: 00:00:00.08
-# Mc/sec: 7356.32
+# CPU time: 0.18u 0.02s 00:00:00.20 Elapsed: 00:00:00.10
+# Mc/sec: 6233.35
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1149,8 +1149,8 @@ Passed Vit filter:                        11  (0.00457761); expected 2.4 (0.001)
 Passed Fwd filter:                         1  (0.000416146); expected 0.0 (1e-05)
 Initial search space (Z):               2403  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.07u 0.00s 00:00:00.07 Elapsed: 00:00:00.04
-# Mc/sec: 8907.18
+# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.06
+# Mc/sec: 6620.02
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1253,8 +1253,8 @@ Passed Vit filter:                         9  (0.00634697); expected 1.4 (0.001)
 Passed Fwd filter:                         3  (0.00211566); expected 0.0 (1e-05)
 Initial search space (Z):               1418  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.09u 0.01s 00:00:00.10 Elapsed: 00:00:00.06
-# Mc/sec: 4215.45
+# CPU time: 0.09u 0.08s 00:00:00.17 Elapsed: 00:00:00.13
+# Mc/sec: 1847.39
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1477,8 +1477,8 @@ Passed Vit filter:                        13  (0.00350877); expected 3.7 (0.001)
 Passed Fwd filter:                         6  (0.00161943); expected 0.0 (1e-05)
 Initial search space (Z):               3705  [actual number of targets]
 Domain search space  (domZ):               6  [number of targets reported over threshold]
-# CPU time: 0.19u 0.01s 00:00:00.20 Elapsed: 00:00:00.10
-# Mc/sec: 7662.65
+# CPU time: 0.21u 0.01s 00:00:00.22 Elapsed: 00:00:00.14
+# Mc/sec: 5739.24
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1698,8 +1698,8 @@ Passed Vit filter:                        15  (0.00325591); expected 4.6 (0.001)
 Passed Fwd filter:                         6  (0.00130237); expected 0.0 (1e-05)
 Initial search space (Z):               4607  [actual number of targets]
 Domain search space  (domZ):               6  [number of targets reported over threshold]
-# CPU time: 0.17u 0.00s 00:00:00.17 Elapsed: 00:00:00.09
-# Mc/sec: 10474.05
+# CPU time: 0.16u 0.07s 00:00:00.23 Elapsed: 00:00:00.35
+# Mc/sec: 2814.83
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1829,8 +1829,8 @@ Passed Vit filter:                        14  (0.00350438); expected 4.0 (0.001)
 Passed Fwd filter:                         3  (0.000750939); expected 0.0 (1e-05)
 Initial search space (Z):               3995  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00.10
-# Mc/sec: 7503.73
+# CPU time: 0.11u 0.03s 00:00:00.14 Elapsed: 00:00:00.08
+# Mc/sec: 9373.08
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1905,8 +1905,8 @@ Passed Vit filter:                        22  (0.00574863); expected 3.8 (0.001)
 Passed Fwd filter:                         3  (0.000783904); expected 0.0 (1e-05)
 Initial search space (Z):               3827  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.13u 0.01s 00:00:00.14 Elapsed: 00:00:00.07
-# Mc/sec: 9122.29
+# CPU time: 0.11u 0.01s 00:00:00.12 Elapsed: 00:00:00.07
+# Mc/sec: 9265.48
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -1982,7 +1982,7 @@ Passed Fwd filter:                         1  (0.000601685); expected 0.0 (1e-05
 Initial search space (Z):               1662  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
 # CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.07
-# Mc/sec: 4112.76
+# Mc/sec: 3959.56
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -2057,8 +2057,8 @@ Passed Vit filter:                         9  (0.0029615); expected 3.0 (0.001)
 Passed Fwd filter:                         1  (0.000329056); expected 0.0 (1e-05)
 Initial search space (Z):               3039  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.08u 0.00s 00:00:00.08 Elapsed: 00:00:00.05
-# Mc/sec: 10140.22
+# CPU time: 0.06u 0.02s 00:00:00.08 Elapsed: 00:00:00.04
+# Mc/sec: 12026.76
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -2136,7 +2136,7 @@ Passed Fwd filter:                         3  (0.00168161); expected 0.0 (1e-05)
 Initial search space (Z):               1784  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
 # CPU time: 0.05u 0.01s 00:00:00.06 Elapsed: 00:00:00.03
-# Mc/sec: 8628.28
+# Mc/sec: 7932.64
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -2434,8 +2434,8 @@ Passed Vit filter:                        18  (0.00426641); expected 4.2 (0.001)
 Passed Fwd filter:                         8  (0.00189618); expected 0.0 (1e-05)
 Initial search space (Z):               4219  [actual number of targets]
 Domain search space  (domZ):               8  [number of targets reported over threshold]
-# CPU time: 0.18u 0.01s 00:00:00.19 Elapsed: 00:00:00.09
-# Mc/sec: 9453.34
+# CPU time: 0.20u 0.02s 00:00:00.22 Elapsed: 00:00:00.11
+# Mc/sec: 7623.61
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -2510,8 +2510,8 @@ Passed Vit filter:                        11  (0.00394548); expected 2.8 (0.001)
 Passed Fwd filter:                         1  (0.00035868); expected 0.0 (1e-05)
 Initial search space (Z):               2788  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.07u 0.01s 00:00:00.08 Elapsed: 00:00:00.04
-# Mc/sec: 10235.04
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
+# Mc/sec: 8901.11
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -2652,8 +2652,8 @@ Passed Vit filter:                        10  (0.00259269); expected 3.9 (0.001)
 Passed Fwd filter:                         4  (0.00103708); expected 0.0 (1e-05)
 Initial search space (Z):               3857  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.20u 0.01s 00:00:00.21 Elapsed: 00:00:00.13
-# Mc/sec: 5358.77
+# CPU time: 0.20u 0.02s 00:00:00.22 Elapsed: 00:00:00.13
+# Mc/sec: 5320.11
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -2798,8 +2798,8 @@ Passed Vit filter:                        13  (0.00379009); expected 3.4 (0.001)
 Passed Fwd filter:                         5  (0.00145773); expected 0.0 (1e-05)
 Initial search space (Z):               3430  [actual number of targets]
 Domain search space  (domZ):               5  [number of targets reported over threshold]
-# CPU time: 0.14u 0.01s 00:00:00.15 Elapsed: 00:00:00.08
-# Mc/sec: 8769.75
+# CPU time: 0.12u 0.01s 00:00:00.13 Elapsed: 00:00:00.07
+# Mc/sec: 9917.51
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3076,8 +3076,8 @@ Passed Vit filter:                        28  (0.00303424); expected 9.2 (0.001)
 Passed Fwd filter:                         9  (0.000975293); expected 0.1 (1e-05)
 Initial search space (Z):               9228  [actual number of targets]
 Domain search space  (domZ):               9  [number of targets reported over threshold]
-# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.13
-# Mc/sec: 13438.47
+# CPU time: 0.28u 0.02s 00:00:00.30 Elapsed: 00:00:00.14
+# Mc/sec: 13127.36
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3180,8 +3180,8 @@ Passed Vit filter:                         5  (0.00294291); expected 1.7 (0.001)
 Passed Fwd filter:                         2  (0.00117716); expected 0.0 (1e-05)
 Initial search space (Z):               1699  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.08u 0.00s 00:00:00.08 Elapsed: 00:00:00.05
-# Mc/sec: 6619.62
+# CPU time: 0.08u 0.02s 00:00:00.10 Elapsed: 00:00:00.05
+# Mc/sec: 6152.01
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3294,8 +3294,8 @@ Passed Vit filter:                         7  (0.00209706); expected 3.3 (0.001)
 Passed Fwd filter:                         2  (0.000599161); expected 0.0 (1e-05)
 Initial search space (Z):               3338  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
-# Mc/sec: 12071.51
+# CPU time: 0.11u 0.01s 00:00:00.12 Elapsed: 00:00:00.06
+# Mc/sec: 9035.52
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3503,8 +3503,8 @@ Passed Vit filter:                        14  (0.00363353); expected 3.9 (0.001)
 Passed Fwd filter:                         5  (0.00129769); expected 0.0 (1e-05)
 Initial search space (Z):               3853  [actual number of targets]
 Domain search space  (domZ):               5  [number of targets reported over threshold]
-# CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00.11
-# Mc/sec: 7736.72
+# CPU time: 0.14u 0.01s 00:00:00.15 Elapsed: 00:00:00.09
+# Mc/sec: 8915.38
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3579,8 +3579,8 @@ Passed Vit filter:                         5  (0.00329164); expected 1.5 (0.001)
 Passed Fwd filter:                         1  (0.000658328); expected 0.0 (1e-05)
 Initial search space (Z):               1519  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.05u 0.01s 00:00:00.06 Elapsed: 00:00:00.04
-# Mc/sec: 5794.03
+# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.05
+# Mc/sec: 5361.91
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3655,8 +3655,8 @@ Passed Vit filter:                        16  (0.00392638); expected 4.1 (0.001)
 Passed Fwd filter:                         2  (0.000490798); expected 0.0 (1e-05)
 Initial search space (Z):               4075  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.13u 0.00s 00:00:00.13 Elapsed: 00:00:00.07
-# Mc/sec: 10103.63
+# CPU time: 0.11u 0.01s 00:00:00.12 Elapsed: 00:00:00.06
+# Mc/sec: 10741.88
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3708,7 +3708,7 @@ Passed Fwd filter:                         1  (0.000405351); expected 0.0 (1e-05
 Initial search space (Z):               2467  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
 # CPU time: 0.06u 0.00s 00:00:00.06 Elapsed: 00:00:00.03
-# Mc/sec: 10319.18
+# Mc/sec: 10555.32
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3744,8 +3744,8 @@ Passed Vit filter:                         5  (0.00348675); expected 1.4 (0.001)
 Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               1434  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.02
-# Mc/sec: 12128.79
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.02
+# Mc/sec: 11687.71
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -3820,8 +3820,8 @@ Passed Vit filter:                         8  (0.00227596); expected 3.5 (0.001)
 Passed Fwd filter:                         1  (0.000284495); expected 0.0 (1e-05)
 Initial search space (Z):               3515  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.10u 0.01s 00:00:00.11 Elapsed: 00:00:00.06
-# Mc/sec: 10400.91
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.04
+# Mc/sec: 15611.64
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4027,8 +4027,8 @@ Passed Vit filter:                        12  (0.00350467); expected 3.4 (0.001)
 Passed Fwd filter:                         7  (0.00204439); expected 0.0 (1e-05)
 Initial search space (Z):               3424  [actual number of targets]
 Domain search space  (domZ):               7  [number of targets reported over threshold]
-# CPU time: 0.18u 0.01s 00:00:00.19 Elapsed: 00:00:00.09
-# Mc/sec: 7318.75
+# CPU time: 0.14u 0.00s 00:00:00.14 Elapsed: 00:00:00.08
+# Mc/sec: 8710.28
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4196,8 +4196,8 @@ Passed Vit filter:                        13  (0.00522928); expected 2.5 (0.001)
 Passed Fwd filter:                         4  (0.00160901); expected 0.0 (1e-05)
 Initial search space (Z):               2486  [actual number of targets]
 Domain search space  (domZ):               4  [number of targets reported over threshold]
-# CPU time: 0.09u 0.01s 00:00:00.10 Elapsed: 00:00:00.06
-# Mc/sec: 7875.03
+# CPU time: 0.10u 0.01s 00:00:00.11 Elapsed: 00:00:00.06
+# Mc/sec: 7785.40
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4233,8 +4233,8 @@ Passed Vit filter:                         3  (0.00149701); expected 2.0 (0.001)
 Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2004  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.01
-# Mc/sec: 20188.94
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.03
+# Mc/sec: 10817.14
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4309,8 +4309,8 @@ Passed Vit filter:                        22  (0.00574863); expected 3.8 (0.001)
 Passed Fwd filter:                         3  (0.000783904); expected 0.0 (1e-05)
 Initial search space (Z):               3827  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
-# Mc/sec: 12852.30
+# CPU time: 0.15u 0.02s 00:00:00.17 Elapsed: 00:00:00.08
+# Mc/sec: 8155.68
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4385,8 +4385,8 @@ Passed Vit filter:                         5  (0.00329164); expected 1.5 (0.001)
 Passed Fwd filter:                         1  (0.000658328); expected 0.0 (1e-05)
 Initial search space (Z):               1519  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.03
-# Mc/sec: 7670.40
+# CPU time: 0.06u 0.00s 00:00:00.06 Elapsed: 00:00:00.05
+# Mc/sec: 4963.82
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4527,8 +4527,8 @@ Passed Vit filter:                        10  (0.00259269); expected 3.9 (0.001)
 Passed Fwd filter:                         4  (0.00103708); expected 0.0 (1e-05)
 Initial search space (Z):               3857  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00.09
-# Mc/sec: 7403.75
+# CPU time: 0.22u 0.01s 00:00:00.23 Elapsed: 00:00:00.16
+# Mc/sec: 4592.55
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4603,8 +4603,8 @@ Passed Vit filter:                        11  (0.00457761); expected 2.4 (0.001)
 Passed Fwd filter:                         1  (0.000416146); expected 0.0 (1e-05)
 Initial search space (Z):               2403  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.03
-# Mc/sec: 12328.98
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
+# Mc/sec: 8014.20
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4679,8 +4679,8 @@ Passed Vit filter:                         9  (0.0029615); expected 3.0 (0.001)
 Passed Fwd filter:                         1  (0.000329056); expected 0.0 (1e-05)
 Initial search space (Z):               3039  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.04
-# Mc/sec: 13439.49
+# CPU time: 0.07u 0.01s 00:00:00.08 Elapsed: 00:00:00.05
+# Mc/sec: 10552.68
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4755,8 +4755,8 @@ Passed Vit filter:                         9  (0.0029615); expected 3.0 (0.001)
 Passed Fwd filter:                         1  (0.000329056); expected 0.0 (1e-05)
 Initial search space (Z):               3039  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.07u 0.00s 00:00:00.07 Elapsed: 00:00:00.04
-# Mc/sec: 12314.71
+# CPU time: 0.09u 0.01s 00:00:00.10 Elapsed: 00:00:00.06
+# Mc/sec: 8245.43
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4815,8 +4815,8 @@ Passed Vit filter:                         4  (0.00214823); expected 1.9 (0.001)
 Passed Fwd filter:                         3  (0.00161117); expected 0.0 (1e-05)
 Initial search space (Z):               1862  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.06u 0.00s 00:00:00.06 Elapsed: 00:00:00.04
-# Mc/sec: 7531.20
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.04
+# Mc/sec: 8322.78
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4891,8 +4891,8 @@ Passed Vit filter:                        11  (0.00457761); expected 2.4 (0.001)
 Passed Fwd filter:                         1  (0.000416146); expected 0.0 (1e-05)
 Initial search space (Z):               2403  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.07u 0.01s 00:00:00.08 Elapsed: 00:00:00.04
-# Mc/sec: 9273.84
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
+# Mc/sec: 7886.08
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5047,8 +5047,8 @@ Passed Vit filter:                        10  (0.00291036); expected 3.4 (0.001)
 Passed Fwd filter:                         3  (0.000873108); expected 0.0 (1e-05)
 Initial search space (Z):               3436  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.12u 0.01s 00:00:00.13 Elapsed: 00:00:00.07
-# Mc/sec: 8983.18
+# CPU time: 0.13u 0.00s 00:00:00.13 Elapsed: 00:00:00.07
+# Mc/sec: 8789.90
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5189,8 +5189,8 @@ Passed Vit filter:                        10  (0.00259269); expected 3.9 (0.001)
 Passed Fwd filter:                         4  (0.00103708); expected 0.0 (1e-05)
 Initial search space (Z):               3857  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.14u 0.01s 00:00:00.15 Elapsed: 00:00:00.09
-# Mc/sec: 7699.09
+# CPU time: 0.19u 0.02s 00:00:00.21 Elapsed: 00:00:00.12
+# Mc/sec: 5787.19
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5265,8 +5265,8 @@ Passed Vit filter:                         9  (0.0029615); expected 3.0 (0.001)
 Passed Fwd filter:                         1  (0.000329056); expected 0.0 (1e-05)
 Initial search space (Z):               3039  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.06u 0.00s 00:00:00.06 Elapsed: 00:00:00.04
-# Mc/sec: 13141.31
+# CPU time: 0.09u 0.01s 00:00:00.10 Elapsed: 00:00:00.06
+# Mc/sec: 7969.05
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5421,8 +5421,8 @@ Passed Vit filter:                        10  (0.00291036); expected 3.4 (0.001)
 Passed Fwd filter:                         3  (0.000873108); expected 0.0 (1e-05)
 Initial search space (Z):               3436  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.13u 0.00s 00:00:00.13 Elapsed: 00:00:00.06
-# Mc/sec: 9042.78
+# CPU time: 0.12u 0.01s 00:00:00.13 Elapsed: 00:00:00.06
+# Mc/sec: 9082.17
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5481,8 +5481,8 @@ Passed Vit filter:                         4  (0.00214823); expected 1.9 (0.001)
 Passed Fwd filter:                         3  (0.00161117); expected 0.0 (1e-05)
 Initial search space (Z):               1862  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.07u 0.00s 00:00:00.07 Elapsed: 00:00:00.04
-# Mc/sec: 7247.65
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.04
+# Mc/sec: 8229.25
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5557,8 +5557,8 @@ Passed Vit filter:                        11  (0.00457761); expected 2.4 (0.001)
 Passed Fwd filter:                         1  (0.000416146); expected 0.0 (1e-05)
 Initial search space (Z):               2403  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.05u 0.01s 00:00:00.06 Elapsed: 00:00:00.03
-# Mc/sec: 12218.47
+# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.05
+# Mc/sec: 7912.99
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5633,8 +5633,8 @@ Passed Vit filter:                         9  (0.0029615); expected 3.0 (0.001)
 Passed Fwd filter:                         1  (0.000329056); expected 0.0 (1e-05)
 Initial search space (Z):               3039  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.06
-# Mc/sec: 8739.98
+# CPU time: 0.07u 0.01s 00:00:00.08 Elapsed: 00:00:00.05
+# Mc/sec: 10318.36
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5775,8 +5775,8 @@ Passed Vit filter:                        10  (0.00259269); expected 3.9 (0.001)
 Passed Fwd filter:                         4  (0.00103708); expected 0.0 (1e-05)
 Initial search space (Z):               3857  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00.10
-# Mc/sec: 7150.62
+# CPU time: 0.20u 0.01s 00:00:00.21 Elapsed: 00:00:00.13
+# Mc/sec: 5580.60
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -5931,7 +5931,7 @@ Passed Vit filter:                        10  (0.00291036); expected 3.4 (0.001)
 Passed Fwd filter:                         3  (0.000873108); expected 0.0 (1e-05)
 Initial search space (Z):               3436  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.04
-# Mc/sec: 12708.80
+# CPU time: 0.10u 0.00s 00:00:00.10 Elapsed: 00:00:00.05
+# Mc/sec: 10952.38
 //
 [ok]
